@@ -1,0 +1,7 @@
+.MS{text-align: center; color: cadetblue;}
+li[value="1"]{color: red;}
+li[value="2"]{color: blue;}
+li[value="3"]{color: orange;}
+li[value="4"]{color: green;}
+li[value="5"]{color: yellow;}
+.MK{font-size: 30px; background-color: black;text-align: center; }
